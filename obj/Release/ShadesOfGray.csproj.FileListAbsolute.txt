@@ -1,0 +1,10 @@
+C:\Users\Kotenkass\source\repos\ShadesOfGray\bin\Release\ShadesOfGray.exe.config
+C:\Users\Kotenkass\source\repos\ShadesOfGray\bin\Release\ShadesOfGray.exe
+C:\Users\Kotenkass\source\repos\ShadesOfGray\bin\Release\ShadesOfGray.pdb
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.csprojAssemblyReference.cache
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.Form1.resources
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.Properties.Resources.resources
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.csproj.GenerateResource.cache
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.csproj.CoreCompileInputs.cache
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.exe
+C:\Users\Kotenkass\source\repos\ShadesOfGray\obj\Release\ShadesOfGray.pdb
